@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{6716F859-5FD0-1C18-279D-6DBF0EE3975F}") = "3room_test_game", "Assembly-CSharp-firstpass.csproj", "{10CE0634-A282-38EB-1482-1FF4E73D17DA}"
+EndProject
+Project("{6716F859-5FD0-1C18-279D-6DBF0EE3975F}") = "3room_test_game", "Assembly-CSharp-Editor.csproj", "{4ABD7442-F650-6DCD-ADC0-CCFB25CE6D68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{10CE0634-A282-38EB-1482-1FF4E73D17DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CE0634-A282-38EB-1482-1FF4E73D17DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CE0634-A282-38EB-1482-1FF4E73D17DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CE0634-A282-38EB-1482-1FF4E73D17DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABD7442-F650-6DCD-ADC0-CCFB25CE6D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABD7442-F650-6DCD-ADC0-CCFB25CE6D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABD7442-F650-6DCD-ADC0-CCFB25CE6D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABD7442-F650-6DCD-ADC0-CCFB25CE6D68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
